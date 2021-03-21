@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: 3c59c5feb2897e6429046b0d9c4414d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Ghost: {fileID: 4789583149841275649, guid: 102ccd43a6a5ea44dacdd64be8664c90, type: 3}
+  - Skeleton: {fileID: 4647141352398576607, guid: c9fcac4af61d9bf40a3f6b54882f74ca,
+      type: 3}
+  - Mummy: {fileID: 6408232461057747334, guid: 857fe20336c8df242919ff7b6289d024, type: 3}
+  - Zombie: {fileID: 7536065948401648841, guid: 84f9596f607f6b64ebe0e93a5880251f,
+      type: 3}
+  - Alien: {fileID: 8859374689890134087, guid: 37721a248d6dcb7498242f9c1c695b5a, type: 3}
+  - GhostParticle: {fileID: 4233620564182895398, guid: ea1a900cf0954684a8e8b7b5e01069e7,
+      type: 3}
+  - SkeletonParticle: {fileID: 4233620564182895398, guid: f2f771923e752fd4ab3bc12015ddb7ee,
+      type: 3}
+  - MummyParticle: {fileID: 4233620564182895398, guid: 0ae330d4b3deb8f4d83efdba44a4dac5,
+      type: 3}
+  - ZombieParticle: {instanceID: 0}
+  - AlienParticle: {instanceID: 0}
+  - endTable: {fileID: 7250554789379511836, guid: 24a03c8692e8683409cc4a129dd7abdd,
+      type: 3}
+  - table: {fileID: 713015991715273239, guid: 0a3c5c467e547b44c968345d656d8e08, type: 3}
+  - chairSide: {fileID: 5694206263037646985, guid: b44d9e3f8b66fc04c87fcbd0c8f85345,
+      type: 3}
+  - chairBack: {fileID: 2394184353795056603, guid: 879fc7b1e9e966d4c95a59043bef9802,
+      type: 3}
+  - Flashlight: {fileID: 7808637847861783578, guid: 19101c7ef2e390349883ba0d0540760a,
+      type: 3}
+  - Teddy: {fileID: 5587014229061917684, guid: 2b846b06a1c1d194c87548acc6fa4cef, type: 3}
+  - Candy: {fileID: 3404101786548523587, guid: d290f986ac221a94f9c541bafaa627e6, type: 3}
+  - Nerf: {fileID: 9043848066443676873, guid: 0351ca7b74fa10447aa277a728f08d4d, type: 3}
+  - Soda: {fileID: 1719875897420511350, guid: 252c86a9c3c6f6b4d8d2929526a46d1a, type: 3}
+  - Balloon: {fileID: 6092317437729403599, guid: f5afd73e3d4bf0048a78e7453a547b99,
+      type: 3}
+  - Cape: {fileID: 6371271966087989422, guid: e8a49832c358bb449a2b1dae52491062, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
